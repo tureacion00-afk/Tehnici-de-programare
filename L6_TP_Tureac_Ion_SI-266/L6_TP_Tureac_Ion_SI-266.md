@@ -7,6 +7,7 @@ GitHub: tureacion00-afk
 ## Linkuri depozite
 - exercitiu-git: https://github.com/tureacion00-afk/exercitiu-git
 - exercitiu-2: https://github.com/tureacion00-afk/exercitiu-2
+- exercitiu-repo-privat: https://github.com/tureacion00-afk/TP_Tureac_Ion_SI-266
 
 ## Ce am lucrat la fiecare pas:
 - A1: M-am logat pe contul de GitHub si am verificat username-ul pentru linkuri.
